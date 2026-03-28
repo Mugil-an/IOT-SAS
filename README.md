@@ -8,7 +8,7 @@
 
 1. **Clone the repository** (if using version control):
    ```sh
-   git clone <your-repo-url>
+   git clone https://github.com/Mugil-an/IOT-SAS
    cd Iot_sas
    ```
 
