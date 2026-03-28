@@ -1,0 +1,11 @@
+streamlit
+pandas
+plotly
+streamlit-autorefresh
+cv2
+numpy
+google-api-python-client
+google-auth
+deep_sort_realtime
+ultralytics
+mediapipe
